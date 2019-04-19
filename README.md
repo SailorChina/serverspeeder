@@ -19,7 +19,7 @@
 
 
 # 锐速破解版安装方法：
-    wget -N --no-check-certificate https://github.com/SailorChina/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/SailorChina/serverspeeder/master/serverspeeder.sh && bash serverspeeder.sh
     
 # 锐速破解版卸载方法：
     chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
